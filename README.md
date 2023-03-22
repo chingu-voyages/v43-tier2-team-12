@@ -28,3 +28,4 @@ We've decided to go with a design inspired from [dribble](https://dribbble.com/s
 - CSS Technology: [TailwindCSS](https://tailwindcss.com)
 - CSS Component Library: [DaisyUI](https://daisyui.com)
 - Weather API: [WeatherAPI](https://www.weatherapi.com/)
+- Icon Pack: Need to decide
