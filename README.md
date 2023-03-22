@@ -1,7 +1,11 @@
 # Sunshine Weather App
 
 ## Getting Started
-To get started run the following commands in your terminal
+To get started clone the repository to your local device
+```
+git clone https://github.com/chingu-voyages/v43-tier2-team-12.git
+```
+Next run the following commands in your terminal
 ```
   cd weather-app
   npm install
